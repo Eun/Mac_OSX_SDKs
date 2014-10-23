@@ -1,4 +1,2 @@
-Place SDKs in /Developer/SDKs
-
-[Hint] In newer versions of Xcode the SDKs are integrated within the app:
+Place SDKs in  
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs
